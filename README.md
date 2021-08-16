@@ -1,6 +1,12 @@
-# attractive_ui
+# flutter_flight_details_screen_design
 
-A new Flutter project.
+This is a Music Player UI Screen
+
+## Getting Started
+
+![Screenshot 2020-02-09 at 5 08 54 PM](https://github.com/MohammadRijwan/flutter_flight_details_screen/blob/master/tiday%20%E2%80%93%2019.png)
+
+Follow me on My YouTube Channel https://www.youtube.com/c/RidzCreations
 
 ## Getting Started
 
