@@ -1,6 +1,6 @@
 # flutter_flight_details_screen_design
 
-This is a Music Player UI Screen
+This is a Flight Boarding Screen build in FLutter!!
 
 ## Getting Started
 
